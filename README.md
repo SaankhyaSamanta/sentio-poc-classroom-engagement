@@ -3,7 +3,7 @@
 This project analyzes classroom video data to estimate student engagement using computer vision techniques. It processes video frames, detects faces, estimates gaze and eye openness, computes engagement scores, and generates both JSON output and an HTML report with visualizations.
 
 ### estimate_gaze(face_crop)
-This function estimates the gaze direction of a detected face.
+This function estimates the gaze direction of a detected face. <br>
 Input
 •	face_crop: Cropped image of a face
 Process
