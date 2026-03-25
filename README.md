@@ -4,7 +4,7 @@ This project analyzes classroom video data to estimate student engagement using 
 
 ### estimate_gaze(face_crop)
 This function estimates the gaze direction of a detected face.
-Input
+Input  
 •	face_crop: Cropped image of a face
 Process
 •	Converts the face image to grayscale
